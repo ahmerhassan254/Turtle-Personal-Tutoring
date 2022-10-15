@@ -1,0 +1,274 @@
+/* Media Queries */
+
+@media screen and (max-width: 1401px) {
+  .hero-heading h1 {
+    font-size: 50px;
+  }
+  .hero-heading span {
+    font-size: 40px;
+  }
+  .hero-heading p {
+    font-size: 25px;
+  }
+  .why-us h2 {
+    font-size: 40px;
+  }
+  .why-us h3 {
+    font-size: 25px;
+  }
+  .about h3,
+  .about span {
+    font-size: 40px;
+  }
+  .card-title {
+    font-size: 25px !important;
+  }
+  .card-text {
+    height: 180px;
+  }
+  .about-bottom-img {
+    width: 500px;
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 1201px) {
+  .hero-img {
+    width: 600px;
+    height: 375px;
+  }
+  .card-text {
+    height: 210px;
+  }
+  .about-top p {
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .about-bottom-img {
+    width: 900px;
+    height: 500px;
+  }
+  .about-bottom p,
+  .about-end p {
+    padding: 0px 0px !important;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .about-text h3 {
+    font-size: 30px !important;
+  }
+  .about-text p {
+    font-size: 18px !important;
+  }
+  .contact-head {
+    font-size: 50px !important;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .hero-img {
+    width: 700px;
+    height: 450px;
+  }
+  .hero-heading {
+    text-align: center;
+  }
+  .card-title {
+    height: fit-content;
+  }
+  .card-text {
+    height: fit-content;
+    font-size: 20px;
+  }
+  .about-top h1 {
+    font-size: 45px;
+  }
+  .about-top p {
+    font-size: 17px;
+  }
+  .about-bottom-img {
+    width: 680px;
+    height: 400px;
+  }
+  .about-bottom p,
+  .about-end p {
+    font-size: 16px !important;
+  }
+  .about-bottom h3,
+  .about-end h5 {
+    font-size: 30px !important;
+  }
+  .quotes p {
+    font-size: 20px !important;
+  }
+  .about-img {
+    height: 480px;
+  }
+}
+@media screen and (max-width: 769px) {
+  .hero-img {
+    width: 500px !important;
+    height: 350px;
+  }
+  .hero-heading h1 {
+    font-size: 45px;
+  }
+  .hero-heading span {
+    font-size: 35px;
+  }
+  .hero-heading p {
+    font-size: 22px;
+  }
+  .why-us h2 {
+    font-size: 35px;
+  }
+  .why-us h3 {
+    font-size: 22px;
+  }
+  .card-title {
+    font-size: 22px;
+  }
+  .card-text {
+    font-size: 18px;
+  }
+  .about h3,
+  .about span {
+    font-size: 35px;
+  }
+  .about-desc {
+    font-size: 18px;
+  }
+  .about-top p {
+    font-size: 16px;
+  }
+  .about-head {
+    font-size: 40px !important;
+  }
+  .about-bottom-img {
+    width: 500px;
+    height: 350px;
+  }
+  .about-img {
+    height: 400px;
+  }
+  .quotes p {
+    font-size: 20px !important;
+  }
+}
+@media screen and (max-width: 576px) {
+  .about-bottom-img {
+    width: 500px;
+    height: 300px;
+  }
+  .about-img {
+    height: 350px;
+  }
+  .contact-head {
+    font-size: 45px !important;
+  }
+}
+
+@media screen and (max-width: 521px) {
+  .hero-img {
+    width: 500px !important;
+    height: 300px;
+  }
+  .hero-heading h1 {
+    font-size: 40px;
+  }
+  .hero-heading span {
+    font-size: 33px;
+  }
+  .hero-heading p {
+    font-size: 20px;
+  }
+  .why-us h2 {
+    font-size: 35px;
+  }
+  .about h3,
+  .about span {
+    font-size: 35px;
+  }
+  .navbar-toggler {
+    margin-right: 0px !important;
+  }
+  .about-bottom-img {
+    width: 450px;
+    height: 300px;
+  }
+
+  .about-bottom h3,
+  .about-end h5 {
+    font-size: 25px !important;
+  }
+  .quotes p {
+    font-size: 19px !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .hero-img {
+    width: 400px;
+    height: 280px;
+  }
+  .about-bottom-img {
+    width: 380px;
+    height: 220px;
+  }
+  .justify {
+    line-height: 28px !important;
+  }
+  .about-img {
+    height: 300px;
+  }
+  .about-head {
+    font-size: 38px !important;
+  }
+}
+@media screen and (max-width: 430px) {
+  .hero-img {
+    width: 380px;
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .hero-img {
+    width: 300px;
+    height: 200px;
+  }
+  .hero-heading h1 {
+    font-size: 40px;
+  }
+  .hero-heading span {
+    font-size: 30px;
+  }
+  .hero-heading p {
+    font-size: 20px;
+  }
+  .card-title {
+    font-size: 20px;
+  }
+  .card-text {
+    font-size: 16px;
+  }
+  .about-desc {
+    font-size: 16px;
+  }
+  .spanMsla {
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+  }
+  .about-bottom-img {
+    width: 300px;
+    height: 200px;
+  }
+  .footer-text {
+    font-size: 18px !important;
+  }
+  .quotes p {
+    font-size: 18px !important;
+  }
+}
+
+/* Media Queries */
